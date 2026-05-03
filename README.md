@@ -21,13 +21,15 @@ jQuery
 Project Structure
 
 simon-game/
+
 │
 ├── index.html      
 ├── styles.css      
 ├── game.js         
 └── sounds/   
 
-🎮 How to Play
+How to Play
+
 Press any key to start the game.
 Watch the pattern of colors that lights up.
 Repeat the sequence by clicking the buttons.
