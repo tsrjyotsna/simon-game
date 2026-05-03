@@ -34,4 +34,4 @@ Press any key to start the game.
 Watch the pattern of colors that lights up.
 Repeat the sequence by clicking the buttons.
 Each level adds a new color to the sequence.
-If you click the wrong color → ❌ Game Over.
+If you click the wrong color → Game Over.
